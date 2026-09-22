@@ -2,9 +2,7 @@ import "./App.css";
 import {
 	Card,
 	CardDescription,
-	CardFooter,
 	CardHeader,
-	CardPanel,
 	CardTitle,
 } from "../components/ui/card";
 
@@ -394,7 +392,7 @@ function App() {
             method="POST"
             className="space-y-5"
           >
-            
+
           </form>
         </div>
       </div>
